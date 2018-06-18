@@ -19,7 +19,7 @@
         </activity>
 
 
-        <service android:name=".ImageServiceService" android:exported="false"></service>
+        <service android:name=".ImageService" android:exported="false"></service>
 
 
     </application>
